@@ -1,3 +1,5 @@
+flutter学习过程记录的demo，和常用功能。
+
 # flutterstudy
 
 A new Flutter application.
